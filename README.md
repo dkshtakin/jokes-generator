@@ -1,1 +1,1 @@
-# jokes_generator
+## Jokes generation based on decoder-only transformer
